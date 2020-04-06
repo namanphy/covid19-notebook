@@ -1,0 +1,107 @@
+﻿region,country,alpha3code,alpha2code,tests,positive,date,testper1m,positiveper1m
+,Argentina,ARG,AR,"2,847",589,27-Mar,63,207
+,Armenia,ARM,AM,"1,580",265,25-Mar,535,168
+,Australia,AUS,AU,"245,623","4,559",31-Mar,"9,670",19
+,Austria,AUT,AT,"52,344","9,974",31-Mar,"5,880",191
+,Azerbaijan,AZE,AZ,"30,000",273,30-Mar,"3,031",9
+,Bahrain,BHR,BH,"33,852",268,31-Mar,"21,569",8.8
+,Bangladesh,BGD,BD,1076,48,29-Mar,7,44.6
+,Belarus,BLR,BY,"30,000",152,30-Mar,"3,161",5.1
+,Belgium,BEL,BE,"18,360","1,486",18-Mar,"1,594",81
+,Bolivia,BOL,BO,591,97,19-Mar,52,164
+,Bosnia and Herzegovina,BIH,BA,"2,603",368,30-Mar,755,141
+,Brazil,BRA,BR,"45,708",428,18-Mar,218,9.4
+,Canada,CAN,CA,"225,705","7,424",30-Mar,"5,956",33
+Alberta,Canada,CAN,CA,"46,057",690,30-Mar,"10,436",15
+British Columiba,Canada,CAN,CA,"42,028",970,30-Mar,"8,223",23
+Manitoba,Canada,CAN,CA,"8,550",96,30-Mar,"6,207",11.2
+New Brunswick,Canada,CAN,CA,"3,234",68,30-Mar,"4,146",21
+Newfoundland and Labrador,Canada,CAN,CA,"2,333",135,30-Mar,"4,475",63
+Northwest Territories,Canada,CAN,CA,833,1,30-Mar,"18,551",1.2
+Nova Scotia,Canada,CAN,CA,"5,172",127,30-Mar,"5,291",25
+Ontario,Canada,CAN,CA,"48,461","1,706",30-Mar,"3,294",35
+Prince Edward Island,Canada,CAN,CA,608,18,30-Mar,"3,844",30
+Quebec,Canada,CAN,CA,"67,540","4,162",31-Mar,"7,911",62
+Saskatchewan,Canada,CAN,CA,"9,311",176,30-Mar,"7,880",19
+Yukon,Canada,CAN,CA,598,5,30-Mar,"14,558",8.4
+,Chile,CHL,CL,"35,142","2,738",27-Mar,"1,843",78
+Guangdong,China,CHN,CN,"320,000",,20-Feb,"2,820",1.4
+,Colombia,COL,CO,"12,216",702,29-Mar,185,55
+,Costa Rica,CRI,CR,"3,046",263,27-Mar,609,86
+,Croatia,HRV,HR,"6,404",860,30-Mar,"1,571",134
+,Czechia,CZE,CZ,"48,811","3,001",30-Mar,"4,583",61
+,Denmark,DNK,DK,"28,642","3,039",31-Mar,"4,831",106
+,Ecuador,ECU,EC,"6,615","1,835",29-Mar,387,277
+,Estonia,EST,EE,"12,401",745,31-Mar,"9,336",60
+,Finland,FIN,FI,"18,000",1163,28-Mar,"3,254",65
+,France,FRA,FR,"101,046","20,068",24-Mar,"1,508",199
+,Germany,DEU,DE,"483,295","36,508",22-Mar,"5,812",76
+,Greece,GRC,GR,"15,961","1,212",30-Mar,"1,482",76
+,Grenada,GRD,GD,18,0,19-Mar,162,0
+Hong Kong,China,HKG,HK,"90,000",682,30-Mar,"12,028",8
+,Hungary,HUN,HU,"13,301",447,30-Mar,"1,361",34
+,Iceland,ISL,IS,"17,904","1,135",31-Mar,"49,152",63
+,India,IND,IN,"42,788","1,251",31-Mar,32,29
+,Indonesia,IDN,ID,"6,534","1,414",30-Mar,24,216
+,Iran,IRN,IR,"80,000","21,638",22-Mar,962,270
+,Ireland,IRL,IE,"17,992","1,329",24-Mar,"3,778",74
+,Israel,ISR,IL,"66,461","4,372",30-Mar,"7,244",66
+,Italy,ITA,IT,"506,968","105,792",31-Mar,"8,405",209
+Emilia-Romagna,Italy,ITA,IT,"54,532","14,074",31-Mar,"12,228",258
+Liguria,Italy,ITA,IT,"10,376","3,416",31-Mar,"6,691",329
+Lombardy,Italy,ITA,IT,"114,640","43,208",31-Mar,"11,395",377
+Marche,Italy,ITA,IT,"11,724","3,825",31-Mar,"7,687",326
+Piedmont,Italy,ITA,IT,"27,658","9,301",31-Mar,"6,349",336
+Tuscany,Italy,ITA,IT,"33,165","4,608",31-Mar,"8,892",139
+ Veneto,Italy,ITA,IT,"106,238","9,155",31-Mar,"21,655",86
+,Jamaica,JAM,JM,250,30,27-Mar,92,120
+,Japan,JPN,JP,"32,497","1,953",31-Mar,258,60
+Tokyo,Japan,JPN,JP,"3,027",521,31-Mar,217,172
+,Kazakhstan,KAZ,KZ,"5,093",,13-Mar,276,
+,Kyrgyzstan,KGZ,KG,"8,186",107,31-Mar,"1,281",13
+,Latvia,LVA,LV,"14,313",376,30-Mar,"7,455",26
+,Lithuania,LTU,LT,11280,533,31-Mar,"4,037",47
+,Malaysia,MYS,MY,"24,168","2,161",27-Mar,737,89
+,Malta,MLT,MT,"4,462",139,27-Mar,"9,040",31
+,Mexico,MEX,MX,"9,481","1,049",28-Mar,75,111
+,Montenegro,MNE,ME,834,105,30-Mar,"1,321",126
+,Nepal,NPL,NP,1060,5,31-Mar,38,4.7
+,Netherlands,NLD,NL,"46,810","7,705",26-Mar,"2,686",165
+,New Zealand,NZL,NZ,"21,384",600,31-Mar,"4,301",28
+,North Macedonia,MKD,MK,"3,518",329,30-Mar,"1,694",94
+,Norway,NOR,NO,"85,136","4,102",29-Mar,"15,861",48
+,Pakistan,PAK,PK,"14,748","1,625",30-Mar,69,110
+,Panama,PAN,PA,"4,856",674,27-Mar,"1,163",139
+,Peru,PER,PE,"12,669",852,27-Mar,386,67
+,Philippines,PHL,PH,3938,2084,31-Mar,39,529
+,Poland,POL,PL,"51,419","2,132",31-Mar,"1,340",41
+,Portugal,PRT,PT,"38,042","5,962",29-Mar,"3,702",182
+,Romania,ROU,RO,"24,654","2,245",31-Mar,"1,271",91
+,Russia,RUS,RU,"536,669","1,836",30-Mar,"3,657",3.4
+,Serbia,SRB,RB,"3,084",785,30-Mar,443,255
+,Singapore,SGP,SG,"39,000",558,25-Mar,"6,838",14
+,Slovakia,SVK,SK,"7,532",336,29-Mar,"1,382",45
+,Slovenia,SVN,SI,"22,474",814,30-Mar,"10,732",36
+,South Africa,ZAF,ZA,"35,593","1,280",29-Mar,606,36
+,"Korea, South",KOR,KR,"410,564","9,786",31-Mar,"7,940",24
+,Spain,ESP,ES,"355,000","24,926",21-Mar,"7,596",70
+,Sweden,SWE,SE,"24,500","2,510",25-Mar,"2,859",102
+,Switzerland,CHE,CH,"111,000","14,336",29-Mar,"12,952",129
+,Taiwan,TWN,TW,"31,800",322,31-Mar,"1,337",10.1
+,Thailand,THA,TH,"17,829","1,524",30-Mar,257,85
+,Trinidad and Tobago,TTO,TT,453,66,27-Mar,332,146
+,Turkey,TUR,TR,"92,403","13,531",31-Mar,"1,111",146
+,Ukraine,UKR,UA,"2,642",549,31-Mar,63,208
+,United Arab Emirates,ARE,AE,"220,000",570,29-Mar,"22,918",2.6
+,United Kingdom,GBR,GB,"127,737","19,522",29-Mar,"1,891",153
+,US,USA,US,"1,022,316","163,565",31-Mar,"3,115",160
+California,US,USA,US,"83,800*","5,763",30-Mar,"2,121",69
+Florida,US,USA,US,"61,802","6,338",31-Mar,"2,877",103
+Louisiana,US,USA,US,"38,967","5,237",31-Mar,"8,362",134
+New York,US,USA,US,"205,186","75,795",31-Mar,"10,547",369
+New Jersey,US,USA,US,"45,773","18,696",31-Mar,"5,153",408
+Michigan,US,USA,US,"17,379","5,486",30-Mar,"1,734",316
+Texas,US,USA,US,"42,992","3,266",31-Mar,"1,483",76
+Washington,US,USA,US,"65,462","4,896",29-Mar,"8,597",75
+,Uruguay,URY,UY,"1,538",189,24-Mar,443,123
+,Vietnam,VNM,VN,"35,808",207,31-Mar,372,5.8
